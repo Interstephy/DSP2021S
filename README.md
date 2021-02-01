@@ -5,4 +5,4 @@ Email: Estefania.garcia@mavs.uta.edu
 Department of Physics  
 University of Texas at Arlington  
 Junior undergraduate  
-Student
+Student  
