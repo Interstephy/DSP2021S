@@ -1,4 +1,4 @@
-# Estefania-Garcia DSP2021S #  
+# DSP2021S #  
 Estefania Garcia  
 School ID: 1001557612  
 Email: Estefania.garcia@mavs.uta.edu  
