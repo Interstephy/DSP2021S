@@ -1,0 +1,20 @@
+1. The "_" symbol in python scripts can have many meanings. You could use it for looping, to separate number digits, or as an interpreter.  
+2. To create the function for the finite geometric sum the function would be sum = sum + a a = a * r  i = i + 1.  
+3. So from the operator input you insert 
+even = [0,2,4,6,8]
+odd = [1,3,5,7,9]
+#printing original list
+print('original list 1:(even))
+print('original list 2:(odd))
+res_list=[]
+#single line logic
+res_list=list(map(add,even,odd))
+print("\n")
+print("Resultant list is: "+(res_list))  
+4. Ok so in the very first line the function has a sequence of numbers that expects 3 parameters. Start is where the range starts, stop is 
+where it stops and the step is how many it will jump so in the code (range(0,10,2)) it means its an iterable. so the function will automatically create a list from 
+that iterable meaning the mylist would be mylist=[0,2,4,6,8] and since it is a list, it is not callable so there would be an error. For-loop will show one iteration
+and then the program would clear out since it isn't callable.  
+5. In the first line there is only one = and in the second line there are two (==) meaning that the returned value is not the same and des not match the first function   
+6. Assertion = True  
+7. Assertion = True  
